@@ -42,6 +42,7 @@
 
 - [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) – Modern SQL editor supporting SQLite.
 - [DBeaver](https://github.com/dbeaver/dbeaver) – Universal database client with SQLite support.
+- [Mongrel](https://www.visorcraft.com/mongrel) – Cross-platform desktop workbench with SQLite support (commercial).
 - [TablePlus](https://tableplus.com/) – Commercial, polished DB client with SQLite compatibility.
 - [DataGrip](https://www.jetbrains.com/datagrip/) – JetBrains IDE for SQL and databases, supports SQLite.
 
