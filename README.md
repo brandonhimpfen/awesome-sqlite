@@ -1,4 +1,4 @@
-# Awesome SQLite [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome SQLite [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -117,11 +117,11 @@
 
 ## Related Awesome Lists
 
-- [Awesome Databases](https://github.com/awesomelistsio/awesome-db)
-- [Awesome SQL](https://github.com/awesomelistsio/awesome-sql)
-- [Awesome SQLite Extensions](https://github.com/awesomelistsio/awesome-sqlite-extensions)
-- [Awesome Rust](https://github.com/awesomelistsio/awesome-rust)
-- [Awesome Go](https://github.com/awesomelistsio/awesome-go)
+- [Awesome Databases](https://github.com/brandonhimpfen/awesome-db)
+- [Awesome SQL](https://github.com/brandonhimpfen/awesome-sql)
+- [Awesome SQLite Extensions](https://github.com/brandonhimpfen/awesome-sqlite-extensions)
+- [Awesome Rust](https://github.com/brandonhimpfen/awesome-rust)
+- [Awesome Go](https://github.com/brandonhimpfen/awesome-go)
 
 ## Contribute
 
