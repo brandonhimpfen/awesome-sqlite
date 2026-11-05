@@ -42,9 +42,10 @@
 ## GUI Clients
 
 - [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) – Modern SQL editor supporting SQLite.
-- [DBeaver](https://github.com/dbeaver/dbeaver) – Universal database client with SQLite support.
-- [TablePlus](https://tableplus.com/) – Commercial, polished DB client with SQLite compatibility.
 - [DataGrip](https://www.jetbrains.com/datagrip/) – JetBrains IDE for SQL and databases, supports SQLite.
+- [DBeaver](https://github.com/dbeaver/dbeaver) – Universal database client with SQLite support.
+- [SQLiteLens Studio](https://github.com/aaronaltherr1-png/sqlite-lens) – Desktop-grade in-browser SQLite workbench and visual ERD studio running client-side via WebAssembly.
+- [TablePlus](https://tableplus.com/) – Commercial, polished DB client with SQLite compatibility.
 
 ## Command-Line Tools
 
