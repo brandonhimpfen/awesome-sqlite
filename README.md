@@ -45,6 +45,7 @@
 - [DBeaver](https://github.com/dbeaver/dbeaver) – Universal database client with SQLite support.
 - [TablePlus](https://tableplus.com/) – Commercial, polished DB client with SQLite compatibility.
 - [DataGrip](https://www.jetbrains.com/datagrip/) – JetBrains IDE for SQL and databases, supports SQLite.
+- [OrcaQ](https://github.com/cin12211/orca-q) – Open-source desktop database editor with SQLite, Turso and Cloudflare D1 support.
 
 ## Command-Line Tools
 
